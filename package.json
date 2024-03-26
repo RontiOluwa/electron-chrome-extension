@@ -1,5 +1,5 @@
 {
-    "name": "electron-chrome-extensions-test-v2",
+    "name": "@RontiOluwa/electron-chrome-extensions-test-v2",
     "version": "1.0.7",
     "description": "Chrome extension support for Electron",
     "main": "dist/index.js",
