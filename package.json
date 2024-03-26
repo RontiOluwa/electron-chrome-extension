@@ -1,6 +1,6 @@
 {
     "name": "electron-chrome-extensions-test",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "Chrome extension support for Electron",
     "main": "dist/index.js",
     "scripts": {
@@ -21,8 +21,8 @@
         "dist"
     ],
     "publishConfig": {
-        "access": "public"
-    },
+        "registry":"https://npm.pkg.github.com/@RontiOluwa"
+      },
     "dependencies": {
         "@types/debug": "^4.1.7",
         "debug": "^4.3.1",
