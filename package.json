@@ -1,5 +1,5 @@
 {
-    "name": "electron-chrome-extensions-test",
+    "name": "electron-chrome-extensions-test-v2",
     "version": "1.0.7",
     "description": "Chrome extension support for Electron",
     "main": "dist/index.js",
@@ -15,7 +15,7 @@
         "chrome",
         "extensions"
     ],
-    "repository": "https://github.com/MASQ-Project/electron-chrome-extension-test.git",
+    "repository": "https://github.com/RontiOluwa/electron-chrome-extension-test-v2.git",
     "license": "SEE LICENSE IN LICENSE.md",
     "files": [
         "dist"
@@ -26,7 +26,7 @@
     "dependencies": {
         "@types/debug": "^4.1.7",
         "debug": "^4.3.1",
-        "electron-chrome-extensions": "https://github.com/MASQ-Project/electron-chrome-extension-test"
+        "electron-chrome-extensions": "https://github.com/RontiOluwa/electron-chrome-extension-test-v2.git"
     },
     "devDependencies": {
         "@babel/core": "^7.23.2",
